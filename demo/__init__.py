@@ -1,1 +1,1 @@
-print("welcome to my module!")
+from .jabber import tell_me_something
