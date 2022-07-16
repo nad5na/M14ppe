@@ -1,1 +1,1 @@
-from .jabber import tell_me_something
+#from .jabber import tell_me_something
